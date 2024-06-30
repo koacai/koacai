@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=koacai" />
+</div>
 
-<!--
-**koacai/koacai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! I'm koacai
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm a researcher on speech and language processing.
+-  🧑‍💻 I'm a web engineer.
+- 📫 How to reach me: [Twitter - @acai_berry0805](https://twitter.com/acai_berry0805)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,go,ts,react,styledcomponents,graphql,docker,gcp,postgresql,html,css,neovim" />
+<br>
+
+## 🏃‍♀️ Activities
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=koacai&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koacai&theme=vue-dark&layout=compact" />
+</div>
