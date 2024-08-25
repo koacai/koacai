@@ -10,7 +10,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,go,ts,react,styledcomponents,graphql,docker,gcp,postgresql,html,css,neovim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,go,ts,react,styledcomponents,graphql,docker,gcp,postgresql,html,css,neovim,arch" />
 <br>
 
 ## 🏃‍♀️ Activities
